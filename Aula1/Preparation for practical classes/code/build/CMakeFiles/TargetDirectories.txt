@@ -1,0 +1,3 @@
+/home/jpgoncalves/Documentos/3Ano2Sem/CG/Preparation for practical classes/code/build/CMakeFiles/class1.dir
+/home/jpgoncalves/Documentos/3Ano2Sem/CG/Preparation for practical classes/code/build/CMakeFiles/edit_cache.dir
+/home/jpgoncalves/Documentos/3Ano2Sem/CG/Preparation for practical classes/code/build/CMakeFiles/rebuild_cache.dir
